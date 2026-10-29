@@ -7,3 +7,5 @@ logs/
 
 # 包含员工/学生手机号、身份证、明文密码，默认不上传
 sql/tlias-mp.sql
+frontend/node_modules/
+frontend/dist/
